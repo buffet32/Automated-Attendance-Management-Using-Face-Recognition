@@ -1,0 +1,6 @@
+2025-08-26_15-08-58 | Class: 3IIR | Present: 10
+2025-08-29_11-29-32 | Class: 3IIR | Present: 8
+2025-08-29_16-14-43 | Class: 3IIR | Present: 1
+2025-08-29_16-19-44 | Class: 3IIR | Present: 24
+2025-08-30_13-07-29 | Class: 3IIR | Recognized: 1 | Unknown: 0 | Method: Recognition
+  Face 1: yassine nait ider (confidence: 0.870)
